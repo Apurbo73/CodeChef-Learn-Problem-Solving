@@ -1,4 +1,4 @@
-﻿# CodeChef-Learn-Problem-Solving
+﻿### CodeChef-Learn-Problem-Solving:
 
 This C program reads an integer `N` from the user and then prints out `N * 2`.
 
